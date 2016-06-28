@@ -15,6 +15,9 @@ group :development, :test do
   gem 'spring',	      '1.7.1'  	
   gem 'sqlite3',      '1.3.11'
   gem 'byebug',	      '9.0.5'
+end
+
+group :development do
   gem 'web-console',   '2.3.0'
 end
 
